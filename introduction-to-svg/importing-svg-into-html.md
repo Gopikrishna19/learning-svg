@@ -1,3 +1,5 @@
+# {{page.title}}
+
 ## Option 1: `<img>`
 
  - imported as an external image
