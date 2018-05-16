@@ -1,3 +1,6 @@
-# My Awesome Book
+# Learning SVG
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This is a documentation of me learning SVG step by step.
+
+
+
