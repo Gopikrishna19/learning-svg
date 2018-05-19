@@ -31,7 +31,7 @@
 - animateTransform
 - set
 
-## Common attibutes
+## Common attributes
 
 - fill
 - stroke
