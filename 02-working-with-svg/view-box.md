@@ -77,13 +77,13 @@ Default `viewBox` takes the same size as `height` and `width`.
 
 <div class="container">
     <svg height="100" width="300">
-        <circle cx="150" cy="50" r="50" fill="#000000"></circle>
+        <circle cx="150" cy="50" r="50" fill="#000000"/>
     </svg>
 </div>
 
 ```html
 <svg height="100" width="300">
-    <circle cx="150" cy="50" r="50" fill="#000000"></circle>
+    <circle cx="150" cy="50" r="50" fill="#000000"/>
 </svg>
 ```
 
@@ -94,13 +94,13 @@ When given, the `viewBox` scales the images with the ratio between the size of t
 <div class="container">
     <div class="actual scaled">x</div>
     <svg height="100" width="300" viewBox="0 0 600 200">
-        <circle cx="150" cy="50" r="50" fill="#000000"></circle>
+        <circle cx="150" cy="50" r="50" fill="#000000"/>
     </svg>
 </div>
 
 ```html
 <svg height="100" width="300" viewBox="0 0 600 200">
-    <circle cx="150" cy="50" r="50" fill="#000000"></circle>
+    <circle cx="150" cy="50" r="50" fill="#000000"/>
 </svg>
 ```
 
@@ -111,13 +111,13 @@ Since the ratio is two times, the content can be updated to desirable effect.
 <div class="container">
     <div class="actual adjusted">x</div>
     <svg height="100" width="300" viewBox="0 0 600 200">
-        <circle cx="300" cy="100" r="50" fill="#000000"></circle>
+        <circle cx="300" cy="100" r="50" fill="#000000"/>
     </svg>
 </div>
 
 ```html
 <svg height="100" width="300" viewBox="0 0 600 200">
-    <circle cx="300" cy="100" r="50" fill="#000000"></circle>
+    <circle cx="300" cy="100" r="50" fill="#000000"/>
 </svg>
 ```
 
@@ -126,77 +126,77 @@ Since the ratio is two times, the content can be updated to desirable effect.
 <div class="container">
     <div class="actual example1">x</div>
     <svg height="100" width="100" viewBox="0 0 100 100">
-        <circle cx="150" cy="50" r="50" fill="#000000"></circle>
+        <circle cx="150" cy="50" r="50" fill="#000000"/>
     </svg>
 </div>
 
 ```html
 <svg height="100" width="100" viewBox="0 0 100 100">
-    <circle cx="150" cy="50" r="50" fill="#000000"></circle>
+    <circle cx="150" cy="50" r="50" fill="#000000"/>
 </svg>
 ```
 
 <div class="container alt2">
     <div class="actual example1">x</div>
     <svg height="100" width="100" viewBox="100 0 100 100">
-        <circle cx="150" cy="50" r="50" fill="#000000"></circle>
+        <circle cx="150" cy="50" r="50" fill="#000000"/>
     </svg>
 </div>
 
 ```html
 <svg height="100" width="100" viewBox="100 0 100 100">
-    <circle cx="150" cy="50" r="50" fill="#000000"></circle>
+    <circle cx="150" cy="50" r="50" fill="#000000"/>
 </svg>
 ```
 
 <div class="container alt3">
     <div class="actual example1">x</div>
     <svg height="100" width="100" viewBox="200 0 100 100">
-        <circle cx="150" cy="50" r="50" fill="#000000"></circle>
+        <circle cx="150" cy="50" r="50" fill="#000000"/>
     </svg>
 </div>
 
 ```html
 <svg height="100" width="100" viewBox="200 0 100 100">
-    <circle cx="150" cy="50" r="50" fill="#000000"></circle>
+    <circle cx="150" cy="50" r="50" fill="#000000"/>
 </svg>
 ```
 
 <div class="container">
     <div class="actual example2">x</div>
     <svg height="100" width="100" viewBox="0 0 150 100">
-        <circle cx="150" cy="50" r="50" fill="#000000"></circle>
+        <circle cx="150" cy="50" r="50" fill="#000000"/>
     </svg>
 </div>
 
 ```html
 <svg height="100" width="100" viewBox="0 0 150 100">
-    <circle cx="150" cy="50" r="50" fill="#000000"></circle>
+    <circle cx="150" cy="50" r="50" fill="#000000"/>
 </svg>
 ```
 
 <div class="container">
     <div class="actual example3">x</div>
     <svg height="100" width="100" viewBox="0 0 200 100">
-        <circle cx="150" cy="50" r="50" fill="#000000"></circle>
+        <circle cx="150" cy="50" r="50" fill="#000000"/>
     </svg>
 </div>
 
 ```html
 <svg height="100" width="100" viewBox="0 0 200 100">
-    <circle cx="150" cy="50" r="50" fill="#000000"></circle>
+    <circle cx="150" cy="50" r="50" fill="#000000"/>
 </svg>
 ```
 
 <div class="container">
     <div class="actual example4">x</div>
     <svg height="100" width="100" viewBox="0 0 300 100">
-        <circle cx="150" cy="50" r="50" fill="#000000"></circle>
+        <circle cx="150" cy="50" r="50" fill="#000000"/>
     </svg>
 </div>
 
 ```html
 <svg height="100" width="100" viewBox="0 0 300 100">
-    <circle cx="150" cy="50" r="50" fill="#000000"></circle>
+    <circle cx="150" cy="50" r="50" fill="#000000"/>
 </svg>
 ```

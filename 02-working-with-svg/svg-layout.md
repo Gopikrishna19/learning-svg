@@ -21,11 +21,11 @@ A narrower area off of viewport to focus on. Defined by `viewBox` as coordinates
 ### A 100x100 image
 
 <svg height="100" width="100" viewBox="0 0 100 100">
-    <circle cx="50" cy="50" r="50" fill="#ff0000"></circle>
+    <circle cx="50" cy="50" r="50" fill="#ff0000"/>
 </svg>
 
 ```html
 <svg height="100" width="100" viewBox="0 0 100 100">
-    <circle cx="50" cy="50" r="50" fill="#ff0000"></circle>
+    <circle cx="50" cy="50" r="50" fill="#ff0000"/>
 </svg>
 ```

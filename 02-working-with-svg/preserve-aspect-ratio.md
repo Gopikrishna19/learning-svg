@@ -22,12 +22,12 @@ When there is a mismatch between viewport and `viewBox`, `preserverAspectRatio` 
 ## Image to test and containers
 
 <svg height="200" width="200">
-    <circle cx="100" cy="100" r="100" fill="#ff0000"></circle>
+    <circle cx="100" cy="100" r="100" fill="#ff0000"/>
 </svg>
 
 ```html
 <svg height="200" width="200">
-    <circle cx="100" cy="100" r="100" fill="#ff0000"></circle>
+    <circle cx="100" cy="100" r="100" fill="#ff0000"/>
 </svg>
 ```
 
@@ -60,25 +60,25 @@ When there is a mismatch between viewport and `viewBox`, `preserverAspectRatio` 
 
 <div class="viewport ex">
     <svg height="300" width="100" viewBox="0 0 200 200" preserveAspectRatio="none">
-        <circle cx="100" cy="100" r="100" fill="#ff0000"></circle>
+        <circle cx="100" cy="100" r="100" fill="#ff0000"/>
     </svg>
 </div>
 
 ```html
 <svg height="300" width="100" viewBox="0 0 200 200" preserveAspectRatio="none">
-    <circle cx="100" cy="100" r="100" fill="#ff0000"></circle>
+    <circle cx="100" cy="100" r="100" fill="#ff0000"/>
 </svg>
 ```
 
 <div class="viewport ex">
     <svg height="100" width="300" viewBox="0 0 200 200" preserveAspectRatio="none">
-        <circle cx="100" cy="100" r="100" fill="#ff0000"></circle>
+        <circle cx="100" cy="100" r="100" fill="#ff0000"/>
     </svg>
 </div>
 
 ```html
 <svg height="100" width="300" viewBox="0 0 200 200" preserveAspectRatio="none">
-    <circle cx="100" cy="100" r="100" fill="#ff0000"></circle>
+    <circle cx="100" cy="100" r="100" fill="#ff0000"/>
 </svg>
 ```
 
@@ -92,13 +92,13 @@ When there is a mismatch between viewport and `viewBox`, `preserverAspectRatio` 
 
 <div class="viewport ex">
     <svg height="100" width="300" viewBox="0 0 200 200" preserveAspectRatio="xMinYMin">
-        <circle cx="100" cy="100" r="100" fill="#ff0000"></circle>
+        <circle cx="100" cy="100" r="100" fill="#ff0000"/>
     </svg>
 </div>
 
 ```html
 <svg height="100" width="300" viewBox="0 0 200 200" preserveAspectRatio="xMinYMin">
-    <circle cx="100" cy="100" r="100" fill="#ff0000"></circle>
+    <circle cx="100" cy="100" r="100" fill="#ff0000"/>
 </svg>
 ```
 
@@ -106,13 +106,13 @@ When there is a mismatch between viewport and `viewBox`, `preserverAspectRatio` 
 
 <div class="viewport ex">
     <svg height="100" width="300" viewBox="0 0 200 200" preserveAspectRatio="xMidYMin">
-        <circle cx="100" cy="100" r="100" fill="#ff0000"></circle>
+        <circle cx="100" cy="100" r="100" fill="#ff0000"/>
     </svg>
 </div>
 
 ```html
 <svg height="100" width="300" viewBox="0 0 200 200" preserveAspectRatio="xMidYMin">
-    <circle cx="100" cy="100" r="100" fill="#ff0000"></circle>
+    <circle cx="100" cy="100" r="100" fill="#ff0000"/>
 </svg>
 ```
 
@@ -120,13 +120,13 @@ When there is a mismatch between viewport and `viewBox`, `preserverAspectRatio` 
 
 <div class="viewport ex">
     <svg height="100" width="300" viewBox="0 0 200 200" preserveAspectRatio="xMaxYMin">
-        <circle cx="100" cy="100" r="100" fill="#ff0000"></circle>
+        <circle cx="100" cy="100" r="100" fill="#ff0000"/>
     </svg>
 </div>
 
 ```html
 <svg height="100" width="300" viewBox="0 0 200 200" preserveAspectRatio="xMaxYMin">
-    <circle cx="100" cy="100" r="100" fill="#ff0000"></circle>
+    <circle cx="100" cy="100" r="100" fill="#ff0000"/>
 </svg>
 ```
 
@@ -136,13 +136,13 @@ When there is a mismatch between viewport and `viewBox`, `preserverAspectRatio` 
 
 <div class="viewport ex">
     <svg height="100" width="300" viewBox="0 0 200 200" preserveAspectRatio="xMinYMin meet">
-        <circle cx="100" cy="100" r="100" fill="#ff0000"></circle>
+        <circle cx="100" cy="100" r="100" fill="#ff0000"/>
     </svg>
 </div>
 
 ```html
 <svg height="100" width="300" viewBox="0 0 200 200" preserveAspectRatio="xMinYMin meet">
-    <circle cx="100" cy="100" r="100" fill="#ff0000"></circle>
+    <circle cx="100" cy="100" r="100" fill="#ff0000"/>
 </svg>
 ```
 
@@ -150,13 +150,13 @@ When there is a mismatch between viewport and `viewBox`, `preserverAspectRatio` 
 
 <div class="viewport ex">
     <svg height="100" width="300" viewBox="0 0 200 200" preserveAspectRatio="xMidYMin meet">
-        <circle cx="100" cy="100" r="100" fill="#ff0000"></circle>
+        <circle cx="100" cy="100" r="100" fill="#ff0000"/>
     </svg>
 </div>
 
 ```html
 <svg height="100" width="300" viewBox="0 0 200 200" preserveAspectRatio="xMidYMin meet">
-    <circle cx="100" cy="100" r="100" fill="#ff0000"></circle>
+    <circle cx="100" cy="100" r="100" fill="#ff0000"/>
 </svg>
 ```
 
@@ -164,13 +164,13 @@ When there is a mismatch between viewport and `viewBox`, `preserverAspectRatio` 
 
 <div class="viewport ex">
     <svg height="100" width="300" viewBox="0 0 200 200" preserveAspectRatio="xMaxYMin meet">
-        <circle cx="100" cy="100" r="100" fill="#ff0000"></circle>
+        <circle cx="100" cy="100" r="100" fill="#ff0000"/>
     </svg>
 </div>
 
 ```html
 <svg height="100" width="300" viewBox="0 0 200 200" preserveAspectRatio="xMaxYMin meet">
-    <circle cx="100" cy="100" r="100" fill="#ff0000"></circle>
+    <circle cx="100" cy="100" r="100" fill="#ff0000"/>
 </svg>
 ```
 
@@ -180,13 +180,13 @@ When there is a mismatch between viewport and `viewBox`, `preserverAspectRatio` 
 
 <div class="viewport ex">
     <svg height="300" width="100" viewBox="0 0 200 200" preserveAspectRatio="xMinYMin slice">
-        <circle cx="100" cy="100" r="100" fill="#ff0000"></circle>
+        <circle cx="100" cy="100" r="100" fill="#ff0000"/>
     </svg>
 </div>
 
 ```html
 <svg height="300" width="100" viewBox="0 0 200 200" preserveAspectRatio="xMinYMin slice">
-    <circle cx="100" cy="100" r="100" fill="#ff0000"></circle>
+    <circle cx="100" cy="100" r="100" fill="#ff0000"/>
 </svg>
 ```
 
@@ -194,13 +194,13 @@ When there is a mismatch between viewport and `viewBox`, `preserverAspectRatio` 
 
 <div class="viewport ex">
     <svg height="300" width="100" viewBox="0 0 200 200" preserveAspectRatio="xMidYMin slice">
-        <circle cx="100" cy="100" r="100" fill="#ff0000"></circle>
+        <circle cx="100" cy="100" r="100" fill="#ff0000"/>
     </svg>
 </div>
 
 ```html
 <svg height="300" width="100" viewBox="0 0 200 200" preserveAspectRatio="xMidYMin slice">
-    <circle cx="100" cy="100" r="100" fill="#ff0000"></circle>
+    <circle cx="100" cy="100" r="100" fill="#ff0000"/>
 </svg>
 ```
 
@@ -208,13 +208,13 @@ When there is a mismatch between viewport and `viewBox`, `preserverAspectRatio` 
 
 <div class="viewport ex">
     <svg height="300" width="100" viewBox="0 0 200 200" preserveAspectRatio="xMaxYMin slice">
-        <circle cx="100" cy="100" r="100" fill="#ff0000"></circle>
+        <circle cx="100" cy="100" r="100" fill="#ff0000"/>
     </svg>
 </div>
 
 ```html
 <svg height="300" width="100" viewBox="0 0 200 200" preserveAspectRatio="xMaxYMin slice">
-    <circle cx="100" cy="100" r="100" fill="#ff0000"></circle>
+    <circle cx="100" cy="100" r="100" fill="#ff0000"/>
 </svg>
 ```
 
@@ -228,13 +228,13 @@ When there is a mismatch between viewport and `viewBox`, `preserverAspectRatio` 
 
 <div class="viewport ex">
     <svg height="300" width="100" viewBox="0 0 200 200" preserveAspectRatio="xMinYMin">
-        <circle cx="100" cy="100" r="100" fill="#ff0000"></circle>
+        <circle cx="100" cy="100" r="100" fill="#ff0000"/>
     </svg>
 </div>
 
 ```html
 <svg height="300" width="100" viewBox="0 0 200 200" preserveAspectRatio="xMinYMin">
-    <circle cx="100" cy="100" r="100" fill="#ff0000"></circle>
+    <circle cx="100" cy="100" r="100" fill="#ff0000"/>
 </svg>
 ```
 
@@ -242,13 +242,13 @@ When there is a mismatch between viewport and `viewBox`, `preserverAspectRatio` 
 
 <div class="viewport ex">
     <svg height="300" width="100" viewBox="0 0 200 200" preserveAspectRatio="xMinYMid">
-        <circle cx="100" cy="100" r="100" fill="#ff0000"></circle>
+        <circle cx="100" cy="100" r="100" fill="#ff0000"/>
     </svg>
 </div>
 
 ```html
 <svg height="300" width="100" viewBox="0 0 200 200" preserveAspectRatio="xMinYMid">
-    <circle cx="100" cy="100" r="100" fill="#ff0000"></circle>
+    <circle cx="100" cy="100" r="100" fill="#ff0000"/>
 </svg>
 ```
 
@@ -256,13 +256,13 @@ When there is a mismatch between viewport and `viewBox`, `preserverAspectRatio` 
 
 <div class="viewport ex">
     <svg height="300" width="100" viewBox="0 0 200 200" preserveAspectRatio="xMinYMax">
-        <circle cx="100" cy="100" r="100" fill="#ff0000"></circle>
+        <circle cx="100" cy="100" r="100" fill="#ff0000"/>
     </svg>
 </div>
 
 ```html
 <svg height="300" width="100" viewBox="0 0 200 200" preserveAspectRatio="xMinYMax">
-    <circle cx="100" cy="100" r="100" fill="#ff0000"></circle>
+    <circle cx="100" cy="100" r="100" fill="#ff0000"/>
 </svg>
 ```
 
@@ -272,13 +272,13 @@ When there is a mismatch between viewport and `viewBox`, `preserverAspectRatio` 
 
 <div class="viewport ex">
     <svg height="300" width="100" viewBox="0 0 200 200" preserveAspectRatio="xMinYMin meet">
-        <circle cx="100" cy="100" r="100" fill="#ff0000"></circle>
+        <circle cx="100" cy="100" r="100" fill="#ff0000"/>
     </svg>
 </div>
 
 ```html
 <svg height="300" width="100" viewBox="0 0 200 200" preserveAspectRatio="xMinYMin meet">
-    <circle cx="100" cy="100" r="100" fill="#ff0000"></circle>
+    <circle cx="100" cy="100" r="100" fill="#ff0000"/>
 </svg>
 ```
 
@@ -286,13 +286,13 @@ When there is a mismatch between viewport and `viewBox`, `preserverAspectRatio` 
 
 <div class="viewport ex">
     <svg height="300" width="100" viewBox="0 0 200 200" preserveAspectRatio="xMinYMid meet">
-        <circle cx="100" cy="100" r="100" fill="#ff0000"></circle>
+        <circle cx="100" cy="100" r="100" fill="#ff0000"/>
     </svg>
 </div>
 
 ```html
 <svg height="300" width="100" viewBox="0 0 200 200" preserveAspectRatio="xMinYMid meet">
-    <circle cx="100" cy="100" r="100" fill="#ff0000"></circle>
+    <circle cx="100" cy="100" r="100" fill="#ff0000"/>
 </svg>
 ```
 
@@ -300,13 +300,13 @@ When there is a mismatch between viewport and `viewBox`, `preserverAspectRatio` 
 
 <div class="viewport ex">
     <svg height="300" width="100" viewBox="0 0 200 200" preserveAspectRatio="xMinYMax meet">
-        <circle cx="100" cy="100" r="100" fill="#ff0000"></circle>
+        <circle cx="100" cy="100" r="100" fill="#ff0000"/>
     </svg>
 </div>
 
 ```html
 <svg height="300" width="100" viewBox="0 0 200 200" preserveAspectRatio="xMinYMax meet">
-    <circle cx="100" cy="100" r="100" fill="#ff0000"></circle>
+    <circle cx="100" cy="100" r="100" fill="#ff0000"/>
 </svg>
 ```
 
@@ -316,13 +316,13 @@ When there is a mismatch between viewport and `viewBox`, `preserverAspectRatio` 
 
 <div class="viewport ex">
     <svg height="100" width="300" viewBox="0 0 200 200" preserveAspectRatio="xMinYMin slice">
-        <circle cx="100" cy="100" r="100" fill="#ff0000"></circle>
+        <circle cx="100" cy="100" r="100" fill="#ff0000"/>
     </svg>
 </div>
 
 ```html
 <svg height="100" width="300" viewBox="0 0 200 200" preserveAspectRatio="xMinYMin slice">
-    <circle cx="100" cy="100" r="100" fill="#ff0000"></circle>
+    <circle cx="100" cy="100" r="100" fill="#ff0000"/>
 </svg>
 ```
 
@@ -330,13 +330,13 @@ When there is a mismatch between viewport and `viewBox`, `preserverAspectRatio` 
 
 <div class="viewport ex">
     <svg height="100" width="300" viewBox="0 0 200 200" preserveAspectRatio="xMinYMid slice">
-        <circle cx="100" cy="100" r="100" fill="#ff0000"></circle>
+        <circle cx="100" cy="100" r="100" fill="#ff0000"/>
     </svg>
 </div>
 
 ```html
 <svg height="100" width="300" viewBox="0 0 200 200" preserveAspectRatio="xMinYMid slice">
-    <circle cx="100" cy="100" r="100" fill="#ff0000"></circle>
+    <circle cx="100" cy="100" r="100" fill="#ff0000"/>
 </svg>
 ```
 
@@ -344,12 +344,12 @@ When there is a mismatch between viewport and `viewBox`, `preserverAspectRatio` 
 
 <div class="viewport ex">
     <svg height="100" width="300" viewBox="0 0 200 200" preserveAspectRatio="xMinYMax slice">
-        <circle cx="100" cy="100" r="100" fill="#ff0000"></circle>
+        <circle cx="100" cy="100" r="100" fill="#ff0000"/>
     </svg>
 </div>
 
 ```html
 <svg height="100" width="300" viewBox="0 0 200 200" preserveAspectRatio="xMinYMax slice">
-    <circle cx="100" cy="100" r="100" fill="#ff0000"></circle>
+    <circle cx="100" cy="100" r="100" fill="#ff0000"/>
 </svg>
 ```
