@@ -11,3 +11,5 @@
 
 * [SVG Layout](02-working-with-svg/svg-layout.md)
 * [The `viewBox`](02-working-with-svg/view-box.md)
+* [The `preserveAspectRatio`](02-working-with-svg/preserve-aspect-ratio.md)
+
