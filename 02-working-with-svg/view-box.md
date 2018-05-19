@@ -1,74 +1,74 @@
 <style>
-    .container {
-        font-size: 0;
-        display: inline-block;
-        position: relative;
-    }
+.container {
+    font-size: 0;
+    display: inline-block;
+    position: relative;
+}
 
-    .container.alt2 {
-        margin-left: 100px;
-    }
+.container.alt2 {
+    margin-left: 100px;
+}
 
-    .container.alt3 {
-        margin-left: 200px;
-    }
+.container.alt3 {
+    margin-left: 200px;
+}
 
-    svg {
-        margin-left: 1px;
-        outline: 1px dashed red;
-    }
+svg {
+    margin-left: 1px;
+    outline: 1px dashed red;
+}
 
-    .actual {
-        display: block;
-        left: 0;
-        margin-left: 1px;
-        outline: 1px dashed green;
-        position: absolute;
-        top: 0;
-    }
+.actual {
+    display: block;
+    left: 0;
+    margin-left: 1px;
+    outline: 1px dashed green;
+    position: absolute;
+    top: 0;
+}
 
-    .actual.scaled {
-        height: 50px;
-        width: 150px;
-    }
+.actual.scaled {
+    height: 50px;
+    width: 150px;
+}
 
-    .actual.adjusted {
-        height: 50px;
-        left: 75px;
-        top: 25px;
-        width: 150px;
-    }
+.actual.adjusted {
+    height: 50px;
+    left: 75px;
+    top: 25px;
+    width: 150px;
+}
 
-    .actual.example1 {
-        height: 100px;
-        width: 300px
-    }
+.actual.example1 { 
+    height: 100px;
+    width: 300px
+}
 
-    .alt2 .actual.example1 {
-        left: -100px;
-    }
-
-    .alt3 .actual.example1 {
-        left: -200px;
-    }
-
-    .actual.example2 {
-        height: calc(200px/3);
-        top: calc(50px/3);
-        width: 200px
-    }
-
-    .actual.example3 {
-        height: 50px;
-        top: 25px;
-        width: 150px;
-    }
-
-    .actual.example4 {
-        height: calc(100px/3);
-        top: calc(100px/3);
-        width: 100px;
-    }
+.alt2 .actual.example1 {
+    left: -100px;
+}
+    
+.alt3 .actual.example1 {
+    left: -200px;
+}
+    
+.actual.example2 {
+    height: calc(200px/3);
+    top: calc(50px/3);
+    width: 200px
+}
+    
+.actual.example3 {
+    height: 50px;
+    top: 25px;
+    width: 150px;
+}
+    
+.actual.example4 {
+    height: calc(100px/3);
+    top: calc(100px/3);
+    width: 100px;
+}
 </style>
 
 # {{page.title}}
