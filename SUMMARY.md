@@ -10,3 +10,4 @@
 ## Working with SVG
 
 * [SVG Layout](02-working-with-svg/svg-layout.md)
+* [The `viewBox`](02-working-with-svg/view-box.md)
