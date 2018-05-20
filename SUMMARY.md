@@ -14,3 +14,4 @@
 * [The `preserveAspectRatio`](02-working-with-svg/preserve-aspect-ratio.md)
 * [Common SVG elements](02-working-with-svg/common-svg-elements.md)
 * [Graphical elements](02-working-with-svg/graphical-elements.md)
+* [Container elements](02-working-with-svg/container-elements.md)
