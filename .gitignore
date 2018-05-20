@@ -1,0 +1,16 @@
+logs
+*.log
+
+pids
+*.pid
+*.seed
+
+node_modules
+
+_book/
+dist/
+book.pdf
+book.epub
+book.mobi
+
+.idea

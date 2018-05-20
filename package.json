@@ -1,0 +1,19 @@
+{
+  "name": "learning-svg",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm run prepare && gitbook build",
+    "prepare": "gitbook install",
+    "deploy": "sh ./deploy.sh",
+    "start": "npm run prepare && gitbook serve"
+  },
+  "author": "Gopikrishna Sathyamurthy",
+  "license": "ISC",
+  "devDependencies": {
+    "gitbook-cli": "2.3.2",
+    "gitbook-plugin-html-minifier": "0.0.1",
+    "rimraf": "2.6.2"
+  }
+}
